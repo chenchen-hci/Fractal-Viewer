@@ -48,16 +48,16 @@ The following tests are implemented on Nexus S API 21, unpredictable exceptions 
 
 ### Example output of initialized view
 
-![init.JPG](https://bitbucket.org/repo/M89rnG/images/2186040395-init.JPG)
+![init.JPG](https://github.com/chenchenece/Fractal-Viewer/blob/master/images/init.JPG)
 
 ### Example output of zoomed view
 
 Note: the image can be zoomed at every scale.
 
-![zoomedView.JPG](https://bitbucket.org/repo/M89rnG/images/383069559-zoomedView.JPG)
+![zoomedView.JPG](https://github.com/chenchenece/Fractal-Viewer/blob/master/images/zoomedView.JPG)
 
 ### Example output of share feature
 
 Note: the zoomed image can be shared as a source of different app, e.g. text message, facebook etc. by registrating the app as the source of intent-filter.
 
-![share.JPG](https://bitbucket.org/repo/M89rnG/images/3148050156-share.JPG)
+![share.JPG](https://github.com/chenchenece/Fractal-Viewer/blob/master/images/share.JPG)
