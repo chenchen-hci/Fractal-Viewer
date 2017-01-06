@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fractalviewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="resetButton">Reset</string>
+    <string name="Reset">Reset</string>
+    <string name="reset">Reset</string>
+    <string name="fractalviewer" />
+    <string name="resetBut">Reset</string>
+    <string name="Reset2">Reset</string>
+    <string name="shareBut">Share</string>
+</resources>
