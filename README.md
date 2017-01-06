@@ -1,6 +1,9 @@
 # Android-Fractal-Viewer
 Simple Android app generating a magnifiable fractal image using mathematical set.
-The app has paseed the test on Nexus S API 21 (Google APIs ARM (armeabi-v7a)).
+The app has paseed the test on <b>Nexus S API 21 (Google APIs ARM (armeabi-v7a))</b>.
+
+<b>The speed of app may not be satisfied when using emulator on Android Studio.</b>
+<b>Therefore it is highly recommended to using physical device to run the demo.</b>
 
 ## Table of Contents
 
